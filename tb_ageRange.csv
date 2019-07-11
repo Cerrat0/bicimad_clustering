@@ -1,0 +1,8 @@
+user_age_range;user_age_range_lit
+0;No se ha podido determinar el rango de edad del usuario
+1;El usuario tiene entre 0 y 16 años
+2;El usuario tiene entre 17 y 18 años
+3;El usuario tiene entre 19 y 26 años
+4;El usuario tiene entre 27 y 40 años
+5;El usuario tiene entre 41 y 65 años
+6;El usuario tiene 66 años o más

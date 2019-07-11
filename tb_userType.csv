@@ -1,0 +1,5 @@
+user_type;user_type_lit
+0;No se ha podido determinar el tipo de usuario
+1;Usuario anual (poseedor de un pase anual)
+2;Usuario ocasional
+3;Trabajador de la empresa
